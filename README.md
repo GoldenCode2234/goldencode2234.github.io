@@ -1,4 +1,5 @@
-![Trailers Made! (3)](https://user-images.githubusercontent.com/122270718/212312041-c5756815-9c6c-4dde-b0b5-cdf89c99676f.png)
+![Trailers Made! (3)](https://user-images.githubusercontent.com/122270718/212312556-98a88438-00c7-4156-b47d-115ccfe36dbf.png)
+
 
 ***What about me? Well I'm 15, Birthday is at December 6, 2022. I have alot of hobbies like, making trailers, playing games and collecting information from classmates and selling that information for more information. You know, the normal things***
 
