@@ -8,7 +8,4 @@ Current Information Collected:
 
 I dont just collect info from my classmates, I also create trailers for fun:
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/p3h5JR6c2BY&ab)
-
-|UFG|Entry Point|Phighting|
----------------------------
+https://www.youtube.com/watch?v=p3h5JR6c2BY&ab_channel=SkyHighGaming
