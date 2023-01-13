@@ -44,4 +44,10 @@ Can you survive a two days in this game without watching a guide video at all? W
 ***If you are wondering, yes I like hardcore games***
 
 I have the full link of the games I play in [Here](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+I work on stories too! I get easily inspired but easily bored when I execute the plan. I have many story ideas which were scrapped or are still left in the dust. Here are few:
 
+	| Genre | Name | Status |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
