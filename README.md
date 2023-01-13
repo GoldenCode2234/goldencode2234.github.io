@@ -4,4 +4,4 @@ Current Information Collected:
 
 *23 Classmates Information Collected...*
 
-| To proceed to information vault, please click this [link](shorturl.at/vOTX2)
+| To proceed to information vault, please click this [link]([shorturl.at/vOTX2](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTnlnZFR5SlJqUTdPZFNvMmhrUHRjTExqeUFja2tXcURDUysxUXBEdU1hRTlYNC9CakVJc0F6Zm0yT0wwaUJINVg2Y0VHWVlqYVFXRk5Jc2pEcXQra1hISElGRTJON2s5QURQZHlCSGxUMHhNYzNVS1VZQVN3cVgvZnB6Q3F1T3lWYVQwZ2d0L3B2SHk3R1RLREZKKy93PT0iLCJoIjoiUGFzc3dvcmQgZm9yICBib3RoIEVtYWlsc1xuIiwiaSI6IjJMVlA0a2VvOHh5QUVTaHkifQ==))
