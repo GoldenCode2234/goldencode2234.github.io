@@ -55,7 +55,11 @@ Can you survive a two days in this game without watching a guide video at all? W
 
 I have the full link of the games I play in [Here](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-I work on stories too! I get easily inspired but easily bored when I execute the plan. I have many story ideas which were scrapped or are still left in the dust. Here are few:
+![Trailers Made! (2)](https://user-images.githubusercontent.com/122270718/212310999-99113c09-c703-4172-9270-17cf5c3b86a0.png)
+
+
+___________________________________________________________________________________________________________________________________________________________
+***I work on stories too! I get easily inspired but easily bored when I execute the plan. I have many story ideas which were scrapped or are still left in the dust. Here are few:***
  
  | Genre      | Title | Status | 
 | ----------- | ----------- | ----------- |
