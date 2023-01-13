@@ -18,7 +18,8 @@ Current Information Collected:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXisD0FuamQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ____________________________________________________________________________________________________________________________________________________________________
-My songs that I like listening to is:
+![Trailers Made! (1)](https://user-images.githubusercontent.com/122270718/212307824-7dd7d98d-d5e4-4a56-adcb-03f883b5e95e.png)
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5QHFG990gTrqd9lreManUi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
