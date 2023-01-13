@@ -4,4 +4,4 @@ Current Information Collected:
 
 *23 Classmates Information Collected...*
 
-To proceed to information vault, please click this [link](shorturl.at/vOTX2)
+| To proceed to information vault, please click this [link](shorturl.at/vOTX2)
