@@ -11,7 +11,7 @@ Current Information Collected:
 
 *23 Classmates Information Collected...*
 
-| To proceed to information vault, please click this [link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTnlnZFR5SlJqUTdPZFNvMmhrUHRjTExqeUFja2tXcURDUysxUXBEdU1hRTlYNC9CakVJc0F6Zm0yT0wwaUJINVg2Y0VHWVlqYVFXRk5Jc2pEcXQra1hISElGRTJON2s5QURQZHlCSGxUMHhNYzNVS1VZQVN3cVgvZnB6Q3F1T3lWYVQwZ2d0L3B2SHk3R1RLREZKKy93PT0iLCJoIjoiUGFzc3dvcmQgZm9yICBib3RoIEVtYWlsc1xuIiwiaSI6IjJMVlA0a2VvOHh5QUVTaHkifQ==)
+| To proceed to information vault, please click this [link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaGFsdEw3WXRqVVBqLzUxdUZhV0ViY0VUNCtBYllRR2xhVEF3aFd3Mk5Eb0NMdUJSYmFCcUdjdXJmSjNQR3BuaWxxclBBb1Y3QWRsRlVSVUhsMFpPenFSVE9Tbz0iLCJoIjoiUm9ibG94IEFjYyIsImkiOiJ5emhqcnY1QmRqL0lVTkNPIn0=)
 
 ![Trailers Made!](https://user-images.githubusercontent.com/122270718/212307091-f941434c-ee42-44ac-8632-afac5b856ece.png)
 
