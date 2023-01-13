@@ -1,4 +1,5 @@
-![Arrowsmith Files](https://user-images.githubusercontent.com/122270718/212236638-07f67764-1819-4aea-a34f-794e0dc1acf1.png)
+![Arrowsmith Files](https://user-images.githubusercontent.com/122270718/212309854-98289e84-92ec-4535-b0f3-c1aadcef8806.png)
+
 
 Current Information Collected:
 
@@ -35,6 +36,8 @@ ________________________________________________________________________________
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/79rvutXzokw2MstS6Z7Jak?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ________________________________________________________________________________________________________________________________________________________
+
+![Trailers Made!](https://user-images.githubusercontent.com/122270718/212309894-7ba7052f-d1fc-492a-a957-f396dd61eb13.jpg)
 
 
 ![download](https://user-images.githubusercontent.com/122270718/212289005-8ed7b88a-4794-42b3-a045-0942eecc8cc9.jpg)
