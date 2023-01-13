@@ -61,5 +61,5 @@ I work on stories too! I get easily inspired but easily bored when I execute the
  
  | Genre      | Title | Status | 
 | ----------- | ----------- | ----------- |
-| Adventure    | Title       |
+| Adventure    | Through Vendaria   | Scrapped
 | Action   | Text        |
