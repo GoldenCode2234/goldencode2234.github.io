@@ -41,4 +41,5 @@ This is Rimworld, a story generator which is extremely punishing. You can contro
 ***Description:***
 Can you survive a two days in this game without watching a guide video at all? Well good luck. This game will test your patience, knowledge, resourcefulness, caution, and pretty much everything. Project Zomboid is unforgiving, a single mistake will end and kill your character in a few minutes.
 
+***If you are wondering, yes I like hardcore games***
 
