@@ -1,3 +1,8 @@
+![Trailers Made! (3)](https://user-images.githubusercontent.com/122270718/212312041-c5756815-9c6c-4dde-b0b5-cdf89c99676f.png)
+
+***What about me? Well I'm 15, Birthday is at December 6, 2022. I have alot of hobbies like, making trailers, playing games and collecting information from classmates and selling that information for more information. You know, the normal things***
+
+
 ![Arrowsmith Files](https://user-images.githubusercontent.com/122270718/212309854-98289e84-92ec-4535-b0f3-c1aadcef8806.png)
 
 
