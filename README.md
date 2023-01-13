@@ -47,7 +47,7 @@ I have the full link of the games I play in [Here](https://www.youtube.com/watch
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 I work on stories too! I get easily inspired but easily bored when I execute the plan. I have many story ideas which were scrapped or are still left in the dust. Here are few:
 
-| Genre    | ***Name:***      | Status |
+ |  Genre    | ***Name:***      | Status |
 | -------------------------------------- |
 | Adventure | Through Vendaria | Scapped |
 | -------------------------------------- |
@@ -58,3 +58,8 @@ I work on stories too! I get easily inspired but easily bored when I execute the
 |Adventure | Life in the Rim  | Left in Dust
 |Action/   | Bounty Hunters   | Left in dust
  Adventure
+ 
+ 	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
