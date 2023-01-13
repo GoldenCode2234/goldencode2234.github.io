@@ -59,7 +59,7 @@ I work on stories too! I get easily inspired but easily bored when I execute the
 |Action/   | Bounty Hunters   | Left in dust
  Adventure
  
- | Genre      | Title | Description | 
+ | Genre      | Title | Status | 
 | ----------- | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Adventure    | Title       |
+| Action   | Text        |
