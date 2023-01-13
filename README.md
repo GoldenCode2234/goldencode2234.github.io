@@ -43,3 +43,5 @@ Can you survive a two days in this game without watching a guide video at all? W
 
 ***If you are wondering, yes I like hardcore games***
 
+I have the full link of the games I play in [Here](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+
