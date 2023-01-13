@@ -47,7 +47,12 @@ I have the full link of the games I play in [Here](https://www.youtube.com/watch
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 I work on stories too! I get easily inspired but easily bored when I execute the plan. I have many story ideas which were scrapped or are still left in the dust. Here are few:
 
-	| Genre | Name | Status |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Genre    | ***Name:***      | Status |
+|Adventure | Through Vendaria | Scapped
+|Adventure | Deadmans Sails   | Left in Dust
+|Action    | Wings Of Crime   | In Progress
+|Adventure | Chains Of Souls  | In progress
+|Romance   | Expectations     | In Progress
+|Adventure | Life in the Rim  | Left in Dust
+|Action/   | Bounty Hunters   | Left in dust
+ Adventure
