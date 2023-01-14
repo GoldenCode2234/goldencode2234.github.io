@@ -76,6 +76,9 @@ ________________________________________________________________________________
 |Adventure | Life in the Rim | Left in the Dust
 |Adventure| Deadman's Sails| Left in the Dust
 |Action/Adventure| Bounty Hunters| Left in dust
+
+ | Genre | Title | Status |
+|--------|---------|----------|
 _______________________________________________________________________________________________________________________________________________________________________
 
 ![Tutorial (2)](https://user-images.githubusercontent.com/122270718/212466060-6b7c6814-09c7-4023-ae55-a2bd073f620a.png)
