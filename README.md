@@ -11,7 +11,7 @@ Current Information Collected:
 
 *23 Classmates Information Collected...*
 
-| To proceed to information vault, please click this [link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaGFsdEw3WXRqVVBqLzUxdUZhV0ViY0VUNCtBYllRR2xhVEF3aFd3Mk5Eb0NMdUJSYmFCcUdjdXJmSjNQR3BuaWxxclBBb1Y3QWRsRlVSVUhsMFpPenFSVE9Tbz0iLCJoIjoiUm9ibG94IEFjYyIsImkiOiJ5emhqcnY1QmRqL0lVTkNPIn0=)
+| ==To proceed to information vault, please click this [link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaGFsdEw3WXRqVVBqLzUxdUZhV0ViY0VUNCtBYllRR2xhVEF3aFd3Mk5Eb0NMdUJSYmFCcUdjdXJmSjNQR3BuaWxxclBBb1Y3QWRsRlVSVUhsMFpPenFSVE9Tbz0iLCJoIjoiUm9ibG94IEFjYyIsImkiOiJ5emhqcnY1QmRqL0lVTkNPIn0=)==
 
 ![Trailers Made!](https://user-images.githubusercontent.com/122270718/212307091-f941434c-ee42-44ac-8632-afac5b856ece.png)
 
@@ -85,3 +85,6 @@ ________________________________________________________________________________
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu6IdhpuLkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
